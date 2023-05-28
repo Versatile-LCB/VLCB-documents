@@ -12,7 +12,7 @@ Most application modules should be able to be formed by combining these specific
 These specifications will be updated as additional requirements are identified.  
 
 # Administrative Documents
-* VLCB Charter (TBD)
+* [VLCB Charter](VLCB%20Charter.pdf)
 * VLCB Introduction (TBD)
 
 # Service Documents
