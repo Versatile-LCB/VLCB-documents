@@ -13,7 +13,7 @@ These specifications will be updated as additional requirements are identified.
 
 # Administrative Documents
 * [VLCB Charter](VLCB%20Charter.pdf)
-* [VLCB Introduction](VLCB%20Introduction%20to%20VLVB.pdf)
+* [VLCB Introduction](VLCB%20Introduction%20to%20VLCB.pdf)
 
 # Service Documents
 * [Service template](CAN%20Service%20Specification.pdf)
