@@ -17,9 +17,8 @@ These specifications will be updated as additional requirements are identified.
 
 # Service Documents
 * [Service template](CAN%20Service%20Specification.pdf)
-* [Mimimum Node Specifcation #1](Mimimum%20Node%20Specifcation%20V0.99B.pdf) V0.99B
-* [Event Teaching (CBUS) Specification #4](Event%20Teaching%20(CBUS)%20Specification.pdf)
-<!--- * New Event Teaching Service #7 (TBD) --->
+* [Mimimum Node Specifcation #1](Mimimum%20Node%20Specifcation.pdf) V0.99B
+* [Event Teaching (CBUS) Specification #4](Event%20Teaching%20(CBUS)%20Specification.pdf)  <!--- * New Event Teaching Service #7 (TBD) --->
 * [Event Producer Service Specification #6](Event%20Producer%20Service%20Specification.pdf)
 * [Event Consumer Service Specification #5](Event%20Consumer%20Service%20Specification.pdf)
 * [Event Acknowledge Service Specification #9](Event%20Acknowledge%20Service%20Specification.pdf)
