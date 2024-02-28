@@ -22,7 +22,7 @@ These specifications will be updated as additional requirements are identified.
 # Service Documents
 * [Service template](Service%20template.pdf) V1.1 Service version 1
 * [Mimimum Node Specifcation #1](Mimimum%20Node%20Specifcation.pdf) V1.1 Service version 1
-* [Event Teaching Specification #4](Event%20Teaching%20Service%20Specification.pdf) V1.1 Service version 1 <!--- * New Event Teaching Service #7 (TBD) --->
+* [Event Teaching Specification #4](Event%20Teaching%20Service%20Specification.pdf) V1.1 Service version 1 
 * [Event Producer Service Specification #6](Event%20Producer%20Service%20Specification.pdf) V1.1 Service version 1
 * [Event Consumer Service Specification #5](Event%20Consumer%20Service%20Specification.pdf) V1.1 Service version 1
 * [Event Consume Own Events Service Specification #8](Consume%20Own%20Events%20Service%20Specification.pdf) V1.1 Service version 1
